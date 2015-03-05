@@ -1,0 +1,60 @@
+Session 1/1/2014
+Time started: 10:30
+Time ended: 14:20
+Total time played: 03:50
+Total net profit: $300.00
+Location: Commerce
+Game-type: NL Texas Holdem
+Blinds: 1/2
+
+
+Session 2/2/2015
+Time started: 01:30
+Time ended: 12:40
+Total time played: 11:10
+Total net profit: $460.00
+Location: Commerce
+Game-type: NL Texas Holdem
+Blinds: 1/2
+
+
+Session 10/21/1992
+Time started: 01:02
+Time ended: 10:59
+Total time played: 09:57
+Total net profit: $-80.00
+Location: Commerce
+Game-type: NL Texas Holdem
+Blinds: 1/2
+
+
+Session 10/21/1992
+Time started: 00:01
+Time ended: 23:41
+Total time played: 23:40
+Total net profit: $300.00
+Location: Commerce
+Game-type: NL Texas Holdem
+Blinds: 1/2
+
+
+Session 10/11/11111
+Time started: 01:30
+Time ended: 11:30
+Total time played: 10:00
+Total net profit: $0.99
+Location: 
+Game-type: 
+Blinds: 
+
+
+Session 10/10/1000
+Time started: 10:03
+Time ended: 11:11
+Total time played: 01:08
+Total net profit: $0.01
+Location: 
+Game-type: 
+Blinds: 
+
+
